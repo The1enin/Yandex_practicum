@@ -9,7 +9,8 @@
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn- GridSearchCV
+- Seaborn
+- GridSearchCV
 - RandomizedSearchCV
 - Pipeline
 - OneHotEncoder
